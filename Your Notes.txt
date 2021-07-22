@@ -1,0 +1,6 @@
+Note no. 1=>   Kali Linux
+Note no. 2=>   Mint Cinnamon
+Note no. 3=>   Zorin OS
+Note no. 4=>   Fedora
+Note no. 5=>   Red Hat
+Note no. 6=>   Peppermint OS
